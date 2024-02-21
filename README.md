@@ -9,12 +9,12 @@ Welcome to CareerConnect, a Flutter project that focuses on creating the user in
 
 ## Screenshots
 
-![Home Page](home_screenshot.png){:height="200px"}
+<img src="home_screenshot.png" height="200">
 
-![Login Page](login_screenshot.png){:height="200px"}
+<img src="login_screenshot.png" height="200">
 
 
-![Signup Page](register_screenshot.png){:height="200px"}
+<img src="register_screenshot.png" height="200">
 
 
 ## Getting Started
