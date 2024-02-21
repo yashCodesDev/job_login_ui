@@ -28,4 +28,4 @@ To get started with CareerConnect, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/CareerConnect.git
+   git clone https://github.com/yashCodesDev/CareerConnect.git
