@@ -6,21 +6,16 @@ Welcome to CareerConnect, a Flutter project that focuses on creating the user in
 
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Screenshots
 
-![Home Page](home_screenshot.png)
+![Home Page](home_screenshot.png){:height="200px"}
 
-![Login Page](login_screenshot.png)
-*Caption: Screenshot of the CareerConnect login page.*
+![Login Page](login_screenshot.png){:height="200px"}
 
-![Signup Page](register_screenshot.png)
-*Caption: Screenshot of the CareerConnect signup page.*
 
-<!-- Add more screenshots or relevant images as needed -->
+![Signup Page](register_screenshot.png){:height="200px"}
+
 
 ## Getting Started
 
@@ -28,4 +23,4 @@ To get started with CareerConnect, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yashCodesDev/CareerConnect.git
+   git clone https://github.com/yashCodesDev/job_login_ui.git
